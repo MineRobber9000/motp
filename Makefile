@@ -3,7 +3,7 @@ motp.zip: $(wildcard motp/*)
 
 .PHONY: clean test
 clean:
-	rm -rf motp.zip
+	rm -f motp.zip $(WORLD)/datapacks/motp.zip
 
 WORLD:=/home/khuxkm/.minecraft/saves/creative
 
