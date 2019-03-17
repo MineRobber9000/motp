@@ -3,8 +3,8 @@
 A datapack for Minecraft 1.13+ that allows for some overpowered combos. Goals:
 
  - [ ] Unbreakable tools
-    - [ ] Crafting bedrock
-      - [ ] Need to balance (use diamond?)
+    - [x] Crafting bedrock
+      - [x] Need to balance (use diamond?)
  - [ ] Overpowered enchantments (call Supercharged?) - basically just normal enchants but over the level you normally get them
     - [ ] how to obtain?
  - [ ] Document how it's done

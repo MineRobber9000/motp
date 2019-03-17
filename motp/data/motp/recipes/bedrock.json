@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"SGS",
+		"GDG",
+		"SGS"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:stone"
+		},
+		"G": {
+			"item": "minecraft:polished_granite"
+		},
+		"D": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item":"minecraft:bedrock",
+		"count": 4
+	}
+}
