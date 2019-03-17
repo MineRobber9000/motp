@@ -1,6 +1,8 @@
 # **M**ineRobber's **O**verpowered **T**ools **P**ack
 
-A datapack for Minecraft 1.13+ that allows for some overpowered combos. Goals:
+A datapack for Minecraft 1.13+ that allows for some overpowered combos. Requires Gamemode 4's Custom Crafters module.
+
+Goals:
 
  - [ ] Unbreakable tools
     - [x] Crafting bedrock
